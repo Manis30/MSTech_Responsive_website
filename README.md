@@ -1,1 +1,1 @@
-website link :https: //bootstraponepagetemplate.netlify.app/
+website link :bootstraponepagetemplate.netlify.app/
